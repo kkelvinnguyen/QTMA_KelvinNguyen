@@ -12,5 +12,5 @@ build/
 .cache/
 
 # env files
-.env
+config.js
 *.log
